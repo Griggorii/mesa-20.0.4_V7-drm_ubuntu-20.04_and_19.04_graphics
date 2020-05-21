@@ -9,4 +9,6 @@ install driver reinstall libnvidia-compute libnvidia-decode libnvidia-encode
 
 Wayland not crash tty
 
+Если есть спецы по бинарному декомпилированию двоично-десятичный кода , а точнее это троичный скорее всего потому что utf-8 , а не ansi то надо вытащить именно вот что бы такой цвет был в более лёгких новых драиверах я просто сравнивал и видел что картинка по калорийности гораздо лучше в моих модифицированных драиверах хотя они сцеплены по депенденси не по /usr/lib/x86_64-linux-gnu , а по /lib/x86_64-linux-gnu
+
 Donate my demo beta full stack graphics support contract firm all device: griggorii@gmail.com
