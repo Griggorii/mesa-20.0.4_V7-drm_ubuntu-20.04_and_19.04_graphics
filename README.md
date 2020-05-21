@@ -7,4 +7,6 @@ Mesa download + instructions: https://yadi.sk/d/aMvilfK7fAQPJg
 
 install driver reinstall libnvidia-compute libnvidia-decode libnvidia-encode
 
+Wayland not crash tty
+
 Donate my demo beta full stack graphics support contract firm all device: griggorii@gmail.com
