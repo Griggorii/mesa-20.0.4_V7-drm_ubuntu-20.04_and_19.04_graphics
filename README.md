@@ -5,4 +5,6 @@ Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa
 
 Mesa download + instructions: https://yadi.sk/d/aMvilfK7fAQPJg
 
+install driver reinstall libnvidia-compute libnvidia-decode libnvidia-encode
+
 Donate my demo beta full stack graphics support contract firm all device: griggorii@gmail.com
