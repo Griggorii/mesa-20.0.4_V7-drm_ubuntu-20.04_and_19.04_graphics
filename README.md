@@ -53,3 +53,5 @@ libdir='/usr/lib/x86_64-linux-gnu'
 
 Donate my demo beta full stack graphics support contract firm all device: griggorii@gmail.com
 
+dlopen idea
+
