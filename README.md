@@ -3,7 +3,7 @@ graphics , mesa , 20.0.4 hybrid 20.1.0 , libpng12 , alternative driver
 
 Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , not ubuntu 18.10.19.10
 
-Mesa download + instructions: https://yadi.sk/d/uzYT1AIDszXagg
+Mesa download + instructions: https://yadi.sk/d/fA91JpjkPw6pvQ
 
 optional install driver reinstall libnvidia-compute libnvidia-decode libnvidia-encode если был ранее установлен то переустановите так как скрипт может затереть хотя он у меня не может писать видео в obs через nvenc из за того что видео карта обрезок то у вас это вполне могло работать.
 
